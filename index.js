@@ -88,4 +88,4 @@ if (command === 'invite') {
 message.reply('Ccылка на приглашение бота - https://discordapp.com/oauth2/authorize?client_id=567034171105607687&scope=bot&permissions=8')
 }});
 
-client.login("NTY3MDM0MTcxMTA1NjA3Njg3.XLN_xA.cw4I1y_1FEjRsHm1hMJY3dw5_tE");
+client.login("B0T_T0KEN");
