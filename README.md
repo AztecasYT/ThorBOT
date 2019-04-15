@@ -1,2 +1,1 @@
-# ThorBOT
-This a bot in discord
+worker: node bot.js
